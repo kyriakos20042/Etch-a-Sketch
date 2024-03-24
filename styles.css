@@ -24,8 +24,8 @@ button {
   }
   
   #container {
-    min-height: 40em;
-    max-height: 40em;
+    min-height: 85vh;
+    max-height: 85vh;
     display: grid;
     grid-template-rows: repeat(var(--grid-rows), 1fr);
     grid-template-columns: repeat(var(--grid-cols), 1fr);
